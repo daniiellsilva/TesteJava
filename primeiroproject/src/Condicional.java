@@ -10,7 +10,7 @@ Condicional {
         if(anoLancamento >= 2022){
             System.out.println("Lançamentos que os cliente estão curtindo");
         } else {
-            System.out.println("Filme antigo que vale a pena assistir!");
+            System.out.println("Filme antigo que vale a pena assistir demais!");
         }
 
         if (incluidoNoPlano == true && tipoPlano.equals("Plus")) {
